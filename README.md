@@ -1,2 +1,2 @@
 # Dashboards
-Dashboards feitos em Excel e PowerBI
+Dashboards feitos em Excel, PowerBI e SQL
